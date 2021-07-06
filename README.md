@@ -9,8 +9,8 @@ jimegonzalezri/jimegonzalezri is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-SKILLS
+###SKILLS
 
-https://img.shields.io/badge/FrontEnd-css-green?logo=css3
+![CSS](https://img.shields.io/badge/css-green?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)</br>
 https://img.shields.io/badge/FrontEnd-html-blue?logo=html5
 
