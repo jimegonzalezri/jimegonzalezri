@@ -17,3 +17,9 @@ You can click the Preview link to take a look at your changes.
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
 ![React](https://img.shields.io/badge/React-9cf?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)</br>
 ![CodeSandBox](https://img.shields.io/badge/CodeSandBox-blueviolet?style=for-the-badge&logo=codesandbox&logoColor=white&labelColor=101010)</br>
+
+
+## Find me at:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jimena_Gonzalez-9cf?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+ 
