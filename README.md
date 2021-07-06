@@ -22,4 +22,4 @@ You can click the Preview link to take a look at your changes.
 ## Find me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jimena_Gonzalez-9cf?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-![Gmail](https://img.shields.io/badge/Email-Jimena_Gonzalez-critical?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)(jimegonzalezri@gmail.com)
+![Gmail](https://img.shields.io/badge/Email-Jimena_Gonzalez-jimegonzalezri@gmail.com-critical?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
