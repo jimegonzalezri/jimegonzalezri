@@ -1,5 +1,5 @@
 
-![alt text](https://ibb.co/XsXHVZh)
+![alt text](https://ibb.co/yqTNdMC)
 
 
 - 👋 **Hi, I’m @jimegonzalezri**
