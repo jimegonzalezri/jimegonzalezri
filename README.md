@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 ###SKILLS
 
 ![CSS](https://img.shields.io/badge/css-green?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)</br>
-![HTML](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)</br>
+![HTML](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)</br>
 
