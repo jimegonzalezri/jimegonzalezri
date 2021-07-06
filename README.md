@@ -1,5 +1,5 @@
 
-![alt text](Mipublicación.jpg)
+![alt text]("C:\Users\Jimena\Pictures\Mi publicación.jpg")
 
 
 - 👋 **Hi, I’m @jimegonzalezri**
