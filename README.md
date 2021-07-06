@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/Vscode-orange?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)</br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
 ![React](https://img.shields.io/badge/React-9cf?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)</br>
-![Python](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=micropython&logoColor=white&labelColor=101010)</br>
+![Python](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=	python&logoColor=white&labelColor=101010)</br>
 ![CodeSandBox](https://img.shields.io/badge/CodeSandBox-blueviolet?style=for-the-badge&logo=codesandbox&logoColor=white&labelColor=101010)</br>
 
 ## Find me at:
