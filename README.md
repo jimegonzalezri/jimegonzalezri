@@ -13,5 +13,5 @@ You can click the Preview link to take a look at your changes.
 
 ![CSS](https://img.shields.io/badge/css-green?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)</br>
 ![HTML](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)</br>
-![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual-Studio-Code-yellow?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)</br>
+![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual-Studio-Code-yellow?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)</br>
 
