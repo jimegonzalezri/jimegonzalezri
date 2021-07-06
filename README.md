@@ -1,5 +1,5 @@
 
-![alt text](https://ibb.co/yqTNdMC.png)
+![alt text](https://imagizer.imageshack.com/img924/6205/Ik3ojG.png)
 
 
 - 👋 **Hi, I’m @jimegonzalezri**
