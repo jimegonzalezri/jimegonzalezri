@@ -1,3 +1,7 @@
+
+
+
+
 - 👋 Hi, I’m @jimegonzalezri
 - 👀 I’m interested in knowing many developers and learn from them
 - 🌱 I’m currently learning CSS / HTML /JavaScript / React
