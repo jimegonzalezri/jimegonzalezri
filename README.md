@@ -1,5 +1,5 @@
 
-![alt text]("C:\Users\Jimena\Pictures\Mi publicación.jpg")
+![alt text](https://ibb.co/XsXHVZh)
 
 
 - 👋 **Hi, I’m @jimegonzalezri**
